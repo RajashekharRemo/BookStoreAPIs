@@ -1,0 +1,11 @@
+C:\Users\rajas\source\repos\BookStore\CommonLayer\bin\Debug\net7.0\CommonLayer.deps.json
+C:\Users\rajas\source\repos\BookStore\CommonLayer\bin\Debug\net7.0\CommonLayer.dll
+C:\Users\rajas\source\repos\BookStore\CommonLayer\bin\Debug\net7.0\CommonLayer.pdb
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.AssemblyInfo.cs
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.dll
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\refint\CommonLayer.dll
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\CommonLayer.pdb
+C:\Users\rajas\source\repos\BookStore\CommonLayer\obj\Debug\net7.0\ref\CommonLayer.dll
